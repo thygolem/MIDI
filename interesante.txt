@@ -1,0 +1,8 @@
+Generating music with Python using Magenta for TensorFlow
+
+https://www.youtube.com/watch?v=2f20d0LJSuk
+
+
+How to setup Cython development environment - Cython installation - P3 | Cython the ultimate guide 🔥
+
+https://www.youtube.com/watch?v=LsJH8b0E1Rs

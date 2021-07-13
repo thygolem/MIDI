@@ -1,1 +1,5 @@
+Cython==0.29.23
+mido==1.2.10
+pygame==2.0.1
+python-rtmidi==1.4.9
 pyusb==1.2.1

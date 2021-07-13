@@ -12,5 +12,7 @@ if dev.is_kernel_driver_active(i):
 dev.set_configuration()
 eaddr=ep.bEndpointAddress
 
-r=dev.read(eaddr,299264)
+r=dev.read(eaddr,299264) 
+# Para saber qué valor tiene tu controlador, sube el valor exageradamente y ejecuta el programa 
+
 print(len(r))
