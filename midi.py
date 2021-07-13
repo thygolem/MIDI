@@ -1,3 +1,7 @@
+"""
+https://www.youtube.com/watch?v=mye6yExH73Q
+"""
+
 from mido import Message, MidiFile, MidiTrack
 import random
 
