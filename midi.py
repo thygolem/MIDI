@@ -37,5 +37,5 @@ while sum < 16:
         
     
 print(soloRhythm)
-mid.save('gtr_solos/gtr_solo_01.mid')
+mid.save('./instrumentos/guitarra.mid')
 
